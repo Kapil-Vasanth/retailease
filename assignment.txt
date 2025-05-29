@@ -1,0 +1,36 @@
+Project Overview:
+You are required to develop a simple web application that uses Any backend and a RDBMS database. The goal is to create an application for a small store that have a few items in stock and sell them to customers who are walking in. You are required to create relevant tables with fields build required relationships too. Additionally, you must apply basic CSS styling to enhance the user interface.
+
+Task Requirements:
+
+1. Frontend:
+Item, Inventory addition, Purchase and shipping
+
+All information should be taken to the DB.
+Note: In One Purchase we should be able to add many Items
+Display the submitted data in a table showing all fields and there you should be able Update Or Delete 
+Apply some CSS styling to the form and table to enhance readability and user experience.
+
+2. Backend:
+
+Set up an API endpoint to handle form submissions and store data in a database.
+
+Implement backend validation to ensure all required fields are provided.
+
+On form submission, store the data in a database, utilizing a JOIN operation as required.
+
+Create required tables. Use a JOIN operation to retrieve data from tables as required to displaying purchases.
+
+3. Database:
+
+Create relevant tables: 
+ When retrieving data for display, use a JOIN operation to fetch item details along with their corresponding item types and The Availability of Stocks and a detail table that should be displayed
+
+4. Validation and Error Handling:
+
+Validate all required fields in the backend, ensuring that missing or invalid data does not proceed to database insertion.
+
+Handle errors gracefully, returning appropriate error messages to the frontend.
+
+let us know if you have any questions or concerns regarding the Exercise.
+

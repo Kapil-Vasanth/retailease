@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "purchaseName": "John Doe Purchase",
+      "totalPrice": 169.97,
+      "items": [
+        { "itemId": 1, "quantity": 1 },
+        { "itemId": 2, "quantity": 1 },
+        { "itemId": 4, "quantity": 3 }
+      ]
+    },
+    {
+      "id": 2,
+      "purchaseName": "Jane Smith Purchase",
+      "totalPrice": 219.98,
+      "items": [
+        { "itemId": 3, "quantity": 1 },
+        { "itemId": 5, "quantity": 1 }
+      ]
+    }
+  ]
+  

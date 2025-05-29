@@ -1,0 +1,15 @@
+[
+    {
+      "purchaseId": 1,
+      "status": "Shipped",
+      "shippingAddress": "123 Main St, Springfield",
+      "shippedDate": "2025-05-25"
+    },
+    {
+      "purchaseId": 2,
+      "status": "Pending",
+      "shippingAddress": "456 Elm St, Shelbyville",
+      "shippedDate": null
+    }
+  ]
+  

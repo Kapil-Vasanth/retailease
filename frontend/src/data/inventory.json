@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "itemId": 1,
+      "quantity": 25,
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "itemId": 2,
+      "quantity": 15,
+      "price": 59.99
+    },
+    {
+      "id": 3,
+      "itemId": 3,
+      "quantity": 10,
+      "price": 129.99
+    },
+    {
+      "id": 4,
+      "itemId": 4,
+      "quantity": 50,
+      "price": 9.99
+    },
+    {
+      "id": 5,
+      "itemId": 5,
+      "quantity": 8,
+      "price": 89.99
+    }
+  ]
+  
